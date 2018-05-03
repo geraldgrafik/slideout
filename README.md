@@ -451,3 +451,5 @@ MIT license. Copyright © 2015 [Mango](http://getmango.com).
 [dt-image]: https://img.shields.io/npm/dt/slideout.svg
 [coverage-image]: https://img.shields.io/coveralls/Mango/slideout.svg
 [coverage-link]: https://coveralls.io/github/Mango/slideout
+
+## New Addition!!
